@@ -42,7 +42,7 @@ menu:
   首页: /
   分类: /categories
   标签: /tags
-  文章: /archives
+  归档: /archives
   关于: /about  
   
 ## you can create `tags` and `categories` folders (I had created them already).
