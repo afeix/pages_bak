@@ -1,6 +1,7 @@
 ---
 title: Emoji Test
-tags:
+tags: [表情,符号]
+category: 测试
 ---
 
 This is an emoji test. :smile:
